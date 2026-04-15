@@ -16,6 +16,7 @@ Videographer Portfolio Site
 
 - [ ] Get LinkedIn Icon working
 - [ ] Make sure all of the navs and footers are the same
+- [ ] Change coral accents to be purple accents to match her brand
 - [ ] Host video files on YouTube or Vimeo
 - [ ] Change videos from using sources to being embedded
 - [ ] Contact form functionality
