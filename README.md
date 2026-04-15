@@ -2,6 +2,16 @@
 
 Videographer Portfolio Site
 
+## Table of Contents
+
+- [To Do](#to-do)
+- [Pages](#pages)
+- [Technologies Used](#technologies-used)
+- [Lessons Learned](#lessons-learned)
+- [Credits](#credits)
+- [Resources](#resources)
+- [Contact](#contact)
+
 ## To Do
 
 - [ ] Get LinkedIn Icon working
@@ -18,7 +28,29 @@ Videographer Portfolio Site
 - [ ] Home Page
 - [ ] Graphic Design Page
 
-#### Resources
+### Technologies Used
+
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a>
+<ul>
+  <li>Front end: HTML5, CSS3, JavaScript</li>
+  <li>Version Control: Git</li>
+  <li>Design: HTML5UP</li>
+</ul>
+
+### Lessons Learned
+
+### Resources
 
 - [Old Website](https://framebyamanda.godaddysites.com/)
 - Inspiration
@@ -27,7 +59,7 @@ Videographer Portfolio Site
   - [Sahil Lulla](https://sahillulla.webflow.io/#Portfolio)
   - [Felix Wiedemann](https://wiedemann.media/)
 
-##### Credits
+### Credits
 
 Design
 
