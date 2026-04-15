@@ -18,7 +18,16 @@ Videographer Portfolio Site
 - [ ] Home Page
 - [ ] Graphic Design Page
 
-#### Credits
+#### Resources
+
+- [Old Website](https://framebyamanda.godaddysites.com/)
+- Inspiration
+  - [Tanner Knox](https://www.tannerknox.com/work)
+  - [Rachel Shenton](https://rachelshenton.squarespace.com/drama)
+  - [Sahil Lulla](https://sahillulla.webflow.io/#Portfolio)
+  - [Felix Wiedemann](https://wiedemann.media/)
+
+##### Credits
 
 Design
 
